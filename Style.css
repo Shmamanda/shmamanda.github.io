@@ -1,0 +1,26 @@
+h1{
+	color:red;
+	text-align: center;
+}
+h2{
+	color:purple;
+	text-align: center;
+}
+body{
+	background: #e0e0e0;
+	text-align:center;
+	font-family: helvetica; 
+}
+h3{
+	color:purple;
+	text-decoration: underline;
+}
+a:visited{
+	color:teal;
+}
+a:hover{
+	color:#800020;
+}
+cursor{
+ 		cursor:alias;
+ 		 }
